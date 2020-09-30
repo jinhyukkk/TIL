@@ -8,7 +8,7 @@
 ### SERVER 512 SESSION
 
 * [1주차 - OPENSSL](https://github.com/park-jinhyuk/TIL/wiki/LAMP---OPENSSL)
-* [1주차 - Linux vi 명령어]
+* [1주차 - Linux vi 명령어](https://github.com/park-jinhyuk/TIL/wiki/LINUX-vi-%EB%AA%85%EB%A0%B9%EC%96%B4)
 * [1주차 - LAMP]
 * [1주차 - Apache]
 * [1주차 - PHP]
