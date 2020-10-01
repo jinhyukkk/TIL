@@ -17,7 +17,7 @@
 * [2주차 - AWS 서버구축/LEMP- 외부접속: phpinfo]
 * [2주차 - MySQL 외부접속 (feat.DataGrip)]
 * [2주차 - phpMyAdmin 설치](https://github.com/park-jinhyuk/TIL/wiki/Ubuntu-18.04---PHPMyadmin-%EC%84%A4%EC%B9%98)
-* [2주차 - Domain 적용 (가비아, 후이즈 ... 구입)]
+* [2주차 - Domain 적용 (By가비아)](https://github.com/park-jinhyuk/TIL/wiki/Domain-%EC%A0%81%EC%9A%A9-(By%EA%B0%80%EB%B9%84%EC%95%84))
 * [2주차- HTTPS 적용 (let's encrypt)]
 
 
