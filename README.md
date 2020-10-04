@@ -20,7 +20,7 @@
 * [2주차 - Domain 적용 (By가비아)](https://github.com/park-jinhyuk/TIL/wiki/Domain-%EC%A0%81%EC%9A%A9-(By%EA%B0%80%EB%B9%84%EC%95%84))
 * [2주차 - HTTPS 적용 (let's encrypt)]
 * [2주차 - Redirection 적용 (IP to Domain)](https://github.com/park-jinhyuk/TIL/wiki/Redirection-%EC%A0%81%EC%9A%A9-(IP-to-Domain))
-* [2주차 - SubDomain 적용]()
+* [2주차 - SubDomain 적용](https://github.com/park-jinhyuk/TIL/wiki/SubDomain-%EC%A0%81%EC%9A%A9)
 
 
 ### JAVA
