@@ -19,10 +19,10 @@
 * [SubDomain 적용](https://github.com/park-jinhyuk/TIL/wiki/SubDomain-%EC%A0%81%EC%9A%A9)
 
 
-### JAVA
+### PHP
 
 
-### JSP
+### MySQL
 
 
 ### PYTHON
