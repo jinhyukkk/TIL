@@ -32,4 +32,4 @@
 
 ### API
 
-* [Path Variable과 Query Parameter는 언제 사용해야 할까?]()
+* [Path Variable과 Query Parameter는 언제 사용해야 할까?](https://github.com/jinhyukkk/TIL/wiki/Path-Variable%EA%B3%BC-Query-Parameter%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%3F)
