@@ -31,7 +31,7 @@
 * [MySQL 명령어 모음](https://github.com/park-jinhyuk/TIL/wiki/MySQL-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C)
 
 ### JavaScript
-* [JS 날짜 SelectBox 알고리즘]
+* [JS 날짜 SelectBox 알고리즘](https://github.com/jinhyukkk/TIL/wiki/JS-SelectBox-%EB%82%A0%EC%A7%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ### API
 
